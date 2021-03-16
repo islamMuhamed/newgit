@@ -1,3 +1,1 @@
-# getTest
-
-Read my first README file
+# it's a new Repo
